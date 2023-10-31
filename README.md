@@ -12,6 +12,16 @@ Analyze the Insecurity of ChatGPT-Generated Code
 * Find a pattern of insecurities, and categorize each vulnerability if possible
 * Advice for a possible solution.
 
+## Related Works
+* Tool:
+    * LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations by Catherine Tony, Markus Mutas, Nicolás E. Díaz Ferreyra, Riccardo Scandariato
+    * https://arxiv.org/abs/2303.09384
+* Dataset for Code Prompts:
+    * https://github.com/tuhh-softsec/LLMSecEval/blob/main/Dataset/LLMSecEval-prompts.csv
+* Score Metric:
+    * Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions by Hammond Pearce, Baleegh Ahmad, Benjamin Tan, Brendan Dolan-Gavitt, Ramesh Karri
+    * https://doi.org/10.1109/SP46214.2022.9833571
+
 ## A list of existing team members (Final)
 - Seoyoung (Amy) An (**san5**)
 - Jihun Kim (**jkim172**)
